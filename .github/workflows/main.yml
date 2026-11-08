@@ -1,8 +1,8 @@
-| name: win 11 + tailscale + Download.bat script                                                                                      |
+| name: 5                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                     |
-| on:                                                                                                                                 |
-| workflow_dispatch:                                                                                                                  |
+on: 
+  workflow_dispatch:                                                                                                          |
 |                                                                                                                                     |
 | jobs:                                                                                                                               |
 | secure-rdp:                                                                                                                         |
